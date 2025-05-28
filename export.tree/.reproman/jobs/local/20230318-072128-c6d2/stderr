@@ -1,0 +1,21 @@
+Warning: Permanently added 'c102-202' (ECDSA) to the list of known hosts.
+WARNING (03/20/23 15:13:49): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.5328583.hostlist.faHFK8NQ to get hosts
+starting job on c102-202
+starting job on c102-203
+starting job on c103-072
+starting job on c103-073
+starting job on c103-093
+starting job on c103-094
+starting job on c103-132
+starting job on c103-133
+starting job on c104-023
+starting job on c104-024
+starting job on c104-103
+starting job on c104-104
+slurmstepd: error: *** JOB 5328583 ON c102-202 CANCELLED AT 2023-03-20T16:32:49 ***
+Killed by signal 15.
+Killed by signal 15.
+Killed by signal 15.
+Killed by signal 15.
+Terminated
